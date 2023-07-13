@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269405948514",
+    "project_id": "androidfatec-b41f6",
+    "storage_bucket": "androidfatec-b41f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269405948514:android:1177cac726d11ccd77df3b",
+        "android_client_info": {
+          "package_name": "br.gov.fatec.hotwheelscolletion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269405948514-eb1ff12mm7majj4k8d2nhpk8i9ceia5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtV1csDRUNNWSVjx5v0AsvLl4oVF8g32Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269405948514-eb1ff12mm7majj4k8d2nhpk8i9ceia5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

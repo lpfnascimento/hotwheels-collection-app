@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Diecast Colletion</string>
+    <string name="blue_car_logo_on_top">blue car logo on top</string>
+    <string name="nome">Nome</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="criar_cadastro">Criar Cadastro</string>
+    <string name="email">email</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="imagem_do_produto">Imagem do produto</string>
+    <string name="fabricante_da_miniatura">Fabricante da Miniatura</string>
+    <string name="modelo_da_miniatura">Modelo da Miniatura</string>
+    <string name="codigo_da_miniatura">Codigo da Miniatura</string>
+    <string name="fabricante_do_carro">Fabricante do carro</string>
+    <string name="salvar">Salvar</string>
+</resources>
